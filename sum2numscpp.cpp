@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    int num1;
+    float num1;
 
-    int num2;
+    float num2;
 
     cout << "Enter first number: ";
     cin >> num1;
